@@ -1,50 +1,37 @@
-# 👋 Hi, I'm Habiba Anjum
+# 👋 Hi, I'm Muhammad Siam
 
-🎓 **Trainee at ISDB-BISEW IT Scholarship Programme**  
-💻 **Aspiring Full Stack .NET Developer**  
-🎨 Passionate about building clean, user-friendly web applications  
-🌱 Currently exploring **ASP.NET Core**, **Angular**, **React**, and modern software design patterns
+ 
+🌱 Currently exploring **HTML**, **JAVA**
 
 
 
 
-
-
-
-
----
-
-## 🧠 About Me
-
-I'm a dedicated and enthusiastic .NET developer, currently learning to build cross-platform, real-world solutions using **ASP.NET Core**, **Angular**, and **React**. I love solving problems through code, and I'm always eager to grow my skills and help others in the tech community.
-
----
 
 ## 🔧 Skills Overview
 
-| 💻 Languages | 🧩 Frameworks & Runtimes | 🎨 Front-end | 🗄️ Database | ⚙️ Tools & Platforms | 🌐 Web Tech |
-|-------------|--------------------------|--------------|--------------|----------------------|-------------|
-| C#, SQL, JavaScript, HTML5, CSS3 | ASP.NET Core, ASP.NET MVC, Entity Framework, ADO.NET, Node.js, Express.js | Angular, React, jQuery, Bootstrap, Tailwind CSS, EJS | SQL Server, LINQ, Stored Procedures | Visual Studio, VS Code, Git, GitHub, Postman, Netlify | JSON, XML, AJAX, WebSockets, Socket.IO |
+| 💻 Languages | ⚙️ Tools & Platforms | 
+|-------------|--------------------------|
+| C,Java, HTML,  | VS Code, GitHub | 
 
 ---
 
 ## 🖼️ Tools & Technologies I Use
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+  <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/-->
 </p>
 
 ---
