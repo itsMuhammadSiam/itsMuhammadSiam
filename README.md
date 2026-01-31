@@ -32,16 +32,15 @@
   <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/-->
+ [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/your-username)
+
 </p>
 
 ---
 
 ## 🚀 Other Skills
 
-- ✅ OOP, Repository Pattern, Factory Pattern  
-- ✅ RESTful API Development  
-- ✅ Report Generation with Crystal Reports  
-- ✅ Authentication & Authorization, Session Management  
+- ✅ 
   
 
 ---
