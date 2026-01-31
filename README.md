@@ -1,16 +1,49 @@
-## Hi there 👋
+## 👋 Hi, I'm Muhammad Siam
 
-<!--
-**itsMuhammadSiam/itsMuhammadSiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Trainee / Learner in IT & Software Development  
+💻 Aspiring Software / Web Developer  
+🌱 Currently learning Web Development & Programming  
+✨ Passionate about learning new technologies and building skills step by step  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I'm a motivated and enthusiastic learner who is starting a career in IT.
+I enjoy learning new things, practicing regularly, and improving myself every day.
+My goal is to become a skilled developer and build real-world applications.
+
+---
+
+## 🛠 Skills Overview
+
+### 🔹 Languages
+- HTML5
+- CSS3
+- JavaScript (Learning)
+- C# (Learning)
+
+### 🔹 Frameworks & Technologies
+- ASP.NET (Learning)
+- Basic Web Development
+- Responsive Design (Basic)
+
+### 🔹 Tools & Platforms
+- Git
+- GitHub
+- Visual Studio Code
+- Visual Studio
+
+### 🔹 Database (Basic)
+- SQL (Learning)
+
+---
+
+## 📌 Current Focus
+- Strengthening programming basics  
+- Learning Git & GitHub  
+- Building small practice projects  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/itsMuhammadSiam
