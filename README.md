@@ -5,13 +5,11 @@
 
 
 
-
-
 ## 🔧 Skills Overview
 
 | 💻 Languages | ⚙️ Tools & Platforms | 
 |-------------|--------------------------|
-| C,Java, HTML,  | VS Code, GitHub | 
+| C, Java, HTML,  | VS Code, GitHub | 
 
 
 
